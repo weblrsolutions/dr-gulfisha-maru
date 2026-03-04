@@ -5,7 +5,7 @@ Production-ready, SEO-optimized portfolio for **Dr. Gulfisha Maru** — IACH Cer
 ## Repository & deployment
 
 - **GitHub:** [weblrsolutions/dr-gulfisha-maru](https://github.com/weblrsolutions/dr-gulfisha-maru)
-- **Live (GitHub Pages):** https://weblrsolutions.github.io/dr-gulfisha-maru/
+- **Live:** https://gulfisha.com/
 
 ## Contents
 
@@ -29,9 +29,7 @@ npx serve .
 
 1. Push this repo to `https://github.com/weblrsolutions/dr-gulfisha-maru.git`
 2. **Settings → Pages → Source:** Deploy from branch `main` (or `master`), folder `/ (root)`
-3. Save. The site will be at `https://weblrsolutions.github.io/dr-gulfisha-maru/`
-
-To use a custom domain, set it in Pages settings and update canonical/OG URLs in `index.html` and `sitemap.xml`/`robots.txt`.
+3. Save. With custom domain **gulfisha.com** set in Pages settings, the site is at https://gulfisha.com/
 
 ## Tech
 

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://weblrsolutions.github.io/dr-gulfisha-maru/sitemap.xml
+Sitemap: https://gulfisha.com/sitemap.xml
